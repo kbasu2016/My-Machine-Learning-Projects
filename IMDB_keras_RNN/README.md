@@ -10,7 +10,7 @@ So we are going to use an RNN to do sentiment analysis on full-text movie review
 Think about how amazing this is. We're going to train an artificial neural network how to "read" movie reviews and guess whether the 
 author liked the movie or not from them. Since understanding written language requires keeping track of all the words in a sentence, 
 we need a recurrent neural network to keep a "memory" of the words that have come before as it "reads" sentences over time.
-In particular, we'll use LSTM (Long Short-Term Memory) cells because we don't really want to "forget" words too quickly 
-- words early on in a sentence can affect the meaning of that sentence significantly.
+In particular, we'll use LSTM (Long Short-Term Memory) cells because we don't really want to "forget" words too quickly - words 
+early on in a sentence can affect the meaning of that sentence significantly.
 
 Project Idea: Mr. Frank Kane.
