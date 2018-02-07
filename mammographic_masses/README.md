@@ -1,4 +1,4 @@
-1. #Title: Mammographic Mass Data
+1. Title: Mammographic Mass Data
 
 2. Sources:
 
