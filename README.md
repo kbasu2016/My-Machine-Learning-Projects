@@ -1,4 +1,4 @@
-## This repository contains some of my experimental ML projects:
+## This repository contains some of my experimental Machine Learning projects:
 
 # Mammographic_Masses: 
 I applied *Multi Layer Perceptron (MLP)* to classify benign and malignant mamographic masses given certain medical attributes
