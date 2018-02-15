@@ -18,7 +18,6 @@ Since understanding written language requires keeping track of all the words in 
 In particular, we'll use LSTM (Long Short-Term Memory) cells because we don't really want to "forget" words too quickly - words early on in a sentence can affect the meaning of that sentence significantly.
 
 # StudentsAdmision@UCLA_MLP: 
-
 In this project, we predict student admissions to graduate school at UCLA based on three pieces of data:
 - GRE Scores (Test)
 - GPA Scores (Grades)
