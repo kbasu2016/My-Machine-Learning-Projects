@@ -31,7 +31,7 @@ In this part (ii) of the project I used several different *supervised machine le
 * SVM
 * Logistic Regression
 
-** Project Courtesy**: Mr. Frank Kane (source: http://sundog-education.com)
+**Project Courtesy**: Mr. Frank Kane (http://sundog-education.com)
 
 # 2) IMDB_keras_RNN:
 
