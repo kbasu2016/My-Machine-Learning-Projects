@@ -20,10 +20,10 @@ Although "shape" and "margin" are nominal data types, which sklearn typically do
 A lot of unnecessary anguish and surgery arises from false positives arising from mammogram results. If we can build a better way to interpret them through supervised machine learning, it could improve a lot of lives.
 
 *The Project has following two parts:*
-## i) Mammographic_Masses_MLP:
+## (a) Mammographic_Masses_MLP:
 In part (i) of the project, I applied *Multi Layer Perceptron (MLP)* to classify benign and malignant mamographic masses given certain medical attributes.
 
-## ii) Mammographic_Masses_SML:
+## (b) Mammographic_Masses_SML:
 In this part (ii) of the project I used several different *supervised machine learning(SML)* techniques to this data set, and see which one yields the highest accuracy as measured with K-Fold cross validation (K=19). Apply:
 
 * Decision tree
