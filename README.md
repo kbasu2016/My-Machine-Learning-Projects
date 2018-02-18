@@ -31,6 +31,8 @@ In this part (ii) of the project I used several different *supervised machine le
 * SVM
 * Logistic Regression
 
+** Project Courtesy**: Mr. Frank Kane (source: http://sundog-education.com)
+
 # 2) IMDB_keras_RNN:
 
 This notebook is inspired by the imdb_lstm.py example that ships with Keras. It's actually a great example of using RNN's. The data set we're using consists of user-generated movie reviews and classification of whether the user liked the movie or not based on its associated rating.
