@@ -1,6 +1,6 @@
-1. Title: Mammographic Mass Data
+1. ## Title: Mammographic Mass Data
 
-2. Sources:
+2. ## Sources:
 
    (a) Original owners of database:
         Prof. Dr. R¸diger Schulz-Wendtland
@@ -19,12 +19,12 @@
         
    (c) Date received: October 2007
  
-3. Past Usage:
+3. ## Past Usage:
     M. Elter, R. Schulz-Wendtland and T. Wittenberg (2007)
     The prediction of breast cancer biopsy outcomes using two CAD approaches that both emphasize an intelligible decision process.
     Medical Physics 34(11), pp. 4164-4172
 
-4. Relevant Information:
+4. ## Relevant Information:
     Mammography is the most effective method for breast cancer screening
     available today. However, the low positive predictive value of breast
     biopsy resulting from mammogram interpretation leads to approximately
