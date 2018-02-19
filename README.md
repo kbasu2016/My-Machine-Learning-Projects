@@ -24,7 +24,7 @@ A lot of unnecessary anguish and surgery arises from false positives arising fro
 In part (a) of the project, I applied *Multi Layer Perceptron (MLP)* to classify benign and malignant mamographic masses given certain medical attributes.
 
 ## (b) Mammographic_Masses_SML:
-In this part (b) of the project I used several different *supervised machine learning(SML)* techniques to this data set, and see which one yields the highest accuracy as measured with K-Fold cross validation (K=19). Apply:
+In this part (b) of the project I used several different *supervised machine learning (SML)* techniques to this data set, and see which one yields the highest accuracy as measured with K-Fold cross validation (K=19). Apply:
 
 * Decision tree
 * Random forest
