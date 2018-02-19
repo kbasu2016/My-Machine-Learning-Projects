@@ -65,6 +65,7 @@ This project involves a dataset of 25,000 IMDB reviews. Each review, comes with 
 Now, the input already comes preprocessed for us for convenience. Each review is encoded as a sequence of indexes, corresponding to the words in the review. The words are ordered by frequency, so the integer 1 corresponds to the most frequent word ("the"), the integer 2 to the second most frequent word, etc. By convention, the integer 0 corresponds to unknown words.
 
 Then, the sentence is turned into a vector by simply concatenating these integers. For instance, if the sentence is "To be or not to be." and the indices of the words are as follows:
+
 - "to": 5
 - "be": 8
 - "or": 21
