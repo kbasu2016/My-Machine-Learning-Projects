@@ -1,6 +1,6 @@
-1. ## Title: Mammographic Mass Data
+1. **Title: Mammographic Mass Data**
 
-2. ## Sources:
+2. **Sources:**
 
    (a) Original owners of database:
         Prof. Dr. R¸diger Schulz-Wendtland
@@ -19,12 +19,12 @@
         
    (c) Date received: October 2007
  
-3. ## Past Usage:
+3. **Past Usage:**
     M. Elter, R. Schulz-Wendtland and T. Wittenberg (2007)
     The prediction of breast cancer biopsy outcomes using two CAD approaches that both emphasize an intelligible decision process.
     Medical Physics 34(11), pp. 4164-4172
 
-4. ## Relevant Information:
+4.  **Relevant Information:**
     Mammography is the most effective method for breast cancer screening
     available today. However, the low positive predictive value of breast
     biopsy resulting from mammogram interpretation leads to approximately
@@ -48,11 +48,11 @@
     sensitivities and associated specificities can be calculated. These can be an
     indication of how well a CAD system performs compared to the radiologists.
 
-5. Number of Instances: 961
+5. **Number of Instances:** 961
 
-6. Number of Attributes: 6 (1 goal field, 1 non-predictive, 4 predictive attributes)
+6. **Number of Attributes:** 6 (1 goal field, 1 non-predictive, 4 predictive attributes)
 
-7. Attribute Information:
+7. **Attribute Information:**
    1. BI-RADS assessment: 1 to 5 (ordinal)  
    2. Age: patient's age in years (integer)
    3. Shape: mass shape: round=1 oval=2 lobular=3 irregular=4 (nominal)
@@ -60,7 +60,7 @@
    5. Density: mass density high=1 iso=2 low=3 fat-containing=4 (ordinal)
    6. Severity: benign=0 or malignant=1 (binominal)
 
-8. Missing Attribute Values: Yes
+8. **Missing Attribute Values:** Yes
     - BI-RADS assessment:    2
     - Age:                   5
     - Shape:                31
@@ -68,4 +68,4 @@
     - Density:              76
     - Severity:              0
 
-9. Class Distribution: benign: 516; malignant: 445
+9. **Class Distribution:** benign: 516; malignant: 445
