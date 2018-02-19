@@ -1,7 +1,7 @@
 ## This repository contains some of my experimental *Machine Learning* projects:
 
 # 1) Mammographic_Masses: 
-We'll be using the "mammographic masses" public dataset from the UCI repository (source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
+In this project, we'll be using the "mammographic masses" public dataset from the UCI repository (source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
 
 This data contains 961 instances of masses detected in mammograms, and contains the following attributes:
 
@@ -18,10 +18,12 @@ BI-RADS is an assesment of how confident the severity classification is; it is n
 Although "shape" and "margin" are nominal data types, which sklearn typically doesn't deal with well, they are close enough to ordinal that we shouldn't just discard them. The "shape" for example is ordered increasingly from round to irregular.
 
 A lot of unnecessary anguish and surgery arises from false positives arising from mammogram results. If we can build a better way to interpret them through supervised machine learning, it could improve a lot of lives.
-## i) Mammographic_Masses_MLP:
+
+*The Project has following two parts:*
+## (a) Mammographic_Masses_MLP:
 In part (i) of the project, I applied *Multi Layer Perceptron (MLP)* to classify benign and malignant mamographic masses given certain medical attributes.
 
-## ii) Mammographic_Masses_SML:
+## (b) Mammographic_Masses_SML:
 In this part (ii) of the project I used several different *supervised machine learning(SML)* techniques to this data set, and see which one yields the highest accuracy as measured with K-Fold cross validation (K=19). Apply:
 
 * Decision tree
