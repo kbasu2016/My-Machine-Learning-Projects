@@ -37,7 +37,7 @@ In this part (b) of the project I used several different *supervised machine lea
 
 # 2) IMDB_keras_RNN:
 
-This notebook is inspired by the imdb_lstm.py example that ships with Keras. It's actually a great example of using RNN's. The data set we're using consists of user-generated movie reviews and classification of whether the user liked the movie or not based on its associated rating.
+This notebook is inspired by the imdb_lstm.py example that ships with Keras. It's actually a great example of using Recurrent Neural Network's (RNN). The data set we're using consists of user-generated movie reviews and classification of whether the user liked the movie or not based on its associated rating.
 
 More info on the dataset is here:
 https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification
