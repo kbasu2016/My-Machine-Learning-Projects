@@ -1,6 +1,6 @@
 ## This repository contains some of my experimental *Machine Learning* projects:
 
-# 1) Mammographic_Masses: 
+# 1) Discrimination of benign and malignant mammographic masses: 
 In this project, we'll be using the "mammographic masses" public dataset from the UCI repository (source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
 
 This data contains 961 instances of masses detected in mammograms, and contains the following attributes:
