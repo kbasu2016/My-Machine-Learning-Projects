@@ -5,7 +5,6 @@ In this project, we'll be using the "mammographic masses" public dataset from th
 
 This data contains 961 instances of masses detected in mammograms, and contains the following attributes:
 
-
    1. BI-RADS assessment: 1 to 5 (ordinal)  
    2. Age: patient's age in years (integer)
    3. Shape: mass shape: round=1 oval=2 lobular=3 irregular=4 (nominal)
